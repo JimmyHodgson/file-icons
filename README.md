@@ -2,6 +2,13 @@
 
 A set of file icons.
 
+![File Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/file.png)
+![Audio Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/audio.png)
+![Document Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/doc.png)
+![Video Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/mov.png)
+![Image Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/img.png)
+![Rar Icon](https://github.com/JimmyHodgson/file-icons/blob/master/icons/rar.png)
+
 ## License
 MIT License
 
